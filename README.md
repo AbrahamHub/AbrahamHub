@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src=""https://pbs.twimg.com/profile_images/1373531356932800522/G5hsB2Ra.jpg />
+   <img align="center" width="200" src="https://pbs.twimg.com/profile_images/1373531356932800522/G5hsB2Ra_400x400.jpg" />
    <h3 align="center">¡Hey 👋! Soy Abraham 👨🏻‍💻</h3>
 </p>
 
