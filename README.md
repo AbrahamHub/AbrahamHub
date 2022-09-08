@@ -3,7 +3,7 @@
    <h3 align="center">¡Hey 👋! Soy Abraham 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador FullStack</strong> con 2 años experiencia.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">Soy <strong>Desarrollador FullStack</strong> con 2 años de experiencia.<br />¡Revisa mi contenido 👇!</p>
 <p align="center">
    <a href="https://www.youtube.com/channel/UCSWCFgE44F5GYHRVs7HX71w" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="28px" width="28px" />
