@@ -1,10 +1,5 @@
 <h2 align="left">Hi 👋! My name is Abraham and I'm a  FullStack Developer</h2>
 
-###
-
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D5616AQGmlZtNvzjpeA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726962311552?e=1746662400&v=beta&t=-vtCtiW5YKYulWGLNr-dsuW9_n6kkr1fom9ULy8o4XM"  />
-</div>
 
 ###
 
